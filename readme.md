@@ -20,7 +20,6 @@ This project addresses the challenge of organizing and recommending courses in a
 5. [Data Processing Pipeline](#data-processing-pipeline)
 6. [Methodology](#methodology)
 7. [Results](#results)
-8. [Project Structure](#project-structure)
 
 ## Features
 
