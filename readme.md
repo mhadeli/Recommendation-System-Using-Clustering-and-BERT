@@ -1,6 +1,8 @@
-# Course Recommendation System Using Clustering and BERT
+# Recommendation System Using Clustering and BERT
 
 A Python-powered system for automatically categorizing and recommending Massive Open Online Courses (MOOCs) using advanced NLP techniques and clustering algorithms.
+
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX0QZ9EN/images/course%20recommendation.png" alt="clustering courses">
 
 ## Overview
 
@@ -121,24 +123,6 @@ The system achieves:
 - Fast recommendation generation
 - Scalable processing of large course catalogs
 
-## Project Structure
-
-```
-├── data/
-│   ├── raw/
-│   └── processed/
-├── models/
-│   ├── embeddings/
-│   └── clusters/
-├── src/
-│   ├── preprocessing/
-│   ├── modeling/
-│   └── visualization/
-├── notebooks/
-├── tests/
-├── requirements.txt
-└── README.md
-```
 
 ## Data Source
 
@@ -157,10 +141,6 @@ The course catalog dataset is sourced from the University of Illinois and includ
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - University of Illinois for the course catalog dataset
@@ -169,6 +149,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://github.com/yourusername)
-
-Project Link: [https://github.com/yourusername/course-recommendation-system](https://github.com/yourusername/course-recommendation-system)
+Hussain Adeli - [@yourusername](https://github.com/mhadeli)
