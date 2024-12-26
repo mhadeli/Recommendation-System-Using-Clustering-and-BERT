@@ -149,4 +149,4 @@ The course catalog dataset is sourced from the University of Illinois and includ
 
 ## Contact
 
-Hussain Adeli - [@yourusername](https://github.com/mhadeli)
+Hussain Adeli - [@mhadeli](https://github.com/mhadeli)
